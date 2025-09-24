@@ -3,7 +3,7 @@
 ## 🙋 About Me
 - 🎓 Studying in **Fatec Guarulhos**.  
 - 🌱 Currently learning and exploring the world of programming.  
-- 💡 Interested in software development, web applications, and problem solving.  
+- 💡 Interested in web application, mobile applications, and problem solving.  
 
 ## 📊 GitHub Stats
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex2006ye&show_icons=true&theme=radical)  
