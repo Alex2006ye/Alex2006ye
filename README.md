@@ -11,7 +11,7 @@
 ### 🔝 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex2006ye&layout=compact&theme=radical)
 
-### 🖥️ Languages & Frameworks I know or have worked with:
+### 🖥️ Languages,Frameworks & Technologies I know or have worked with:
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
