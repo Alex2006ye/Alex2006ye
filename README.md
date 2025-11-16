@@ -13,56 +13,45 @@
 
 ### 🖥️ Languages,Frameworks & Technologies I know or have worked with:
 <p>
-<!-- C -->
-<img align="center" alt="C" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<div style="display: flex; gap: 10px;">
+  <img align="center" alt="C" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
-<!-- C# -->
-<img align="center" alt="Csharp" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Csharp" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 
-<!-- Java -->
-<img align="center" alt="Java" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="Java" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
-<!-- PHP -->
-<img align="center" alt="PHP" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" alt="PHP" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 
-<!-- CSS3 -->
-<img align="center" alt="CSS" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="CSS" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-<!-- HTML5 -->
-<img align="center" alt="HTML" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="HTML" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
-<!-- Android Studio -->
-<img align="center" alt="Android Studio" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain.svg" />
+  <img align="center" alt="Android Studio" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain.svg" />
 
-<!-- Laravel -->
-<img align="center" alt="Laravel" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img align="center" alt="Laravel" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 
-<!-- Linux -->
-<img align="center" alt="Linux" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="center" alt="Linux" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
-<!-- MySQL -->
-<img align="center" alt="MySQL" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="MySQL" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
-<!-- Firebase -->
-<img align="center" alt="Firebase" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+  <img align="center" alt="Firebase" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 
-<!-- Eclipse -->
-<img align="center" alt="Eclipse" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+  <img align="center" alt="Eclipse" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
 
-<!-- VS Code -->
-<img align="center" alt="VSCode" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="VSCode" height="30" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+</div>
 
 </p>
