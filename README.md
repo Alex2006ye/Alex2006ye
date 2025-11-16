@@ -12,7 +12,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex2006ye&layout=compact&theme=radical)
 
 ### 🖥️ Languages,Frameworks & Technologies I know or have worked with:
-<p>
 <div style="display: flex; gap: 10px;">
   <img align="center" alt="C" height="30" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
@@ -53,5 +52,3 @@
   <img align="center" alt="VSCode" height="30" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
-
-</p>
