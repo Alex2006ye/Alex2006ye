@@ -12,7 +12,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex2006ye&layout=compact&theme=radical)
 
 ### 🖥️ Languages,Frameworks & Technologies I know or have worked with:
-<div style="display: flex; gap: 10px;">
+<div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
