@@ -14,7 +14,7 @@
 ### 🖥️ Languages,Frameworks & Technologies I know or have worked with:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,c,java,cs,firebase,github,postman,spring,html,css,androidstudio,idea" />
+    <img src="https://skillicons.dev/icons?i=eclipse,c,java,cs,firebase,github,postman,spring,html,css,androidstudio,idea,mysql" />
   </a>
 </p>
 
