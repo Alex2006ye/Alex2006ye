@@ -11,17 +11,9 @@
 ### 🔝 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex2006ye&layout=compact&theme=radical)
 
-### 🖥️ Languages,Frameworks & Technologies I know or have worked with:
+### 🧑‍💻 Languages,Frameworks & Technologies I know or have worked with:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=eclipse,c,java,cs,firebase,github,postman,spring,html,css,androidstudio,idea,mysql" />
-  </a>
-</p>
-
-### 🧑‍💻Languages and Technologies I Prefer
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,github,postman,spring,androidstudio,idea,mysql" />   
   </a>
 </p>
