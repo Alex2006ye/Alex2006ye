@@ -2,7 +2,7 @@
 
 ## 🙋 About Me
 - 🎓 Studying in **Fatec Guarulhos**.  
-- 🌱 Currently learning Spring Boot and Mobile Programming.  
+- 🌱 Currently learning Spring Boot and Mobile Programming Using Kotlin.  
 - 💡 Interested in web application, mobile applications, and problem solving.  
 
 ## 📊 GitHub Stats
@@ -18,3 +18,10 @@
   </a>
 </p>
 
+### 🧑‍💻Languages and Technologies I Prefer
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=eclipse,java,github,postman,spring,androidstudio,idea,mysql" />
+  </a>
+</p>
